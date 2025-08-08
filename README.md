@@ -5,7 +5,7 @@ Almost all elements are custom color coded for Python, Go,
 and JavaScript. I'll add more customizations for more
 languages in the future.
 
-## How to Use
+# How to Use
 To activate the sunset burst theme, follow these steps:
 
     1. Launch Visual Studio Code.
