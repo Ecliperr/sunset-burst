@@ -1,0 +1,36 @@
+{
+  "name": "sunset-burst",
+  "displayName": "Sunset Burst",
+  "description": "red, orange, and black color theme",
+  "version": "0.0.1",
+  "publisher": "Ecliperr",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "Dark Theme",
+    "Red Theme",
+    "Orange Theme",
+    "red and orange theme",
+    "dark theme",
+    "ecliperr",
+    "ecliperr dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset Burst",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset Burst-color-theme.json"
+      }
+    ]
+  }
+}
