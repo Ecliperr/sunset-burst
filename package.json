@@ -2,6 +2,7 @@
   "name": "sunset-burst",
   "displayName": "Sunset Burst",
   "description": "red, orange, and black color theme",
+  "icon": "images/sunset-burst-icon.png",
   "version": "1.0.0",
   "publisher": "Ecliperr",
   "engines": {
