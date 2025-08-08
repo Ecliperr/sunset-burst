@@ -1,14 +1,34 @@
-# sunset-burst theme README
+# Sunset Burst!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This is a high-contrast red, orange, black and grey theme.
+Almost all elements are custom color coded for Python, Go,
+and JavaScript. I'll add more customizations for more
+languages in the future.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## How to Use
+To activate the sunset burst theme, follow these steps:
 
-## For more information
+    1. Launch Visual Studio Code.
+    2. Open the Command Palette by pressing `Ctrl+Shift+P`.
+    3. Type "Preferences: Color Theme" and select it from the list.
+    4. In the color theme selection menu, choose "Sunset Burst".
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Language Screenshots
 
-**Enjoy!**
+<span style="font-size: 1.5em">Python</span>
+
+![Python screenshot](images/py.png)
+
+<span style="font-size: 1.5em">Go</span>
+
+![Go screenshot](images/go.png)
+
+<span style="font-size: 1.5em">JavaScript</span>
+
+![JavaScript screenshot](images/js.png)
+
+If you come across any issues or have suggestions for
+improvement, feel free to make a pull request to the 
+[GitHub Repository](https://github.com/Ecliperr/sunset-burst.git)
+
+**Enjoy Sunset Burst!**
