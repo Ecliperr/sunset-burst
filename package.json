@@ -2,7 +2,7 @@
   "name": "sunset-burst",
   "displayName": "Sunset Burst",
   "description": "red, orange, and black color theme",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "Ecliperr",
   "engines": {
     "vscode": "^1.103.0"
